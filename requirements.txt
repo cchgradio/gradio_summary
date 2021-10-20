@@ -1,0 +1,5 @@
+gradio
+nltk
+regex
+torch
+transformers
