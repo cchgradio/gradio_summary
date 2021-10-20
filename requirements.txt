@@ -1,5 +1,6 @@
 gradio
 nltk
 regex
+sentencepiece
 torch
 transformers
