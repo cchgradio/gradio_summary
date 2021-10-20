@@ -1,5 +1,6 @@
 gradio
 nltk
+protobuf
 regex
 sentencepiece
 torch
